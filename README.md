@@ -1,4 +1,14 @@
+Name: Agastinraaj A
 
+Company:CODTECH IT SOLUTIONS
+
+ID:CTO8DS6242
+
+Domain:Machine Learning
+
+Duration:July to August 2024
+
+Mentor:Muzammil Ahmed
 
 
 Overview
