@@ -46,3 +46,5 @@ Key Features
 
 7. Interactive Command-Line Interface
     - Includes an interactive command-line interface that prompts the user to input square footage, number of bedrooms, and location, and outputs the predicted price.
+    - ![IMG-20240831-WA0007](https://github.com/user-attachments/assets/7b83e085-bcb6-429f-943a-c03846611ce1)
+![IMG-20240831-WA0005](https://github.com/user-attachments/assets/f0eb7ec8-0c1b-4310-91fb-f639b347edf0)
